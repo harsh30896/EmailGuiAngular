@@ -7,6 +7,7 @@ import { EmailService } from 'src/app/service/email.service';
   templateUrl: './email.component.html',
   styleUrls: ['./email.component.css']
 })
+// hello 
 export class EmailComponent implements OnInit {
 
   data={
